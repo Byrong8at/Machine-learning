@@ -1,15 +1,26 @@
-# Machine-learning
-Choix et filtrage du personnel pour une meilleure rotation.
+# 🚀 Projet de Traitement des Données Employés
+# 📋 Description du Projet
+Ce projet consiste en plusieurs étapes de préparation et de traitement de données employés afin de les rendre exploitables pour des analyses.
 
-Etape 1: 
-Extraction des différentes datasets, avec fusion des dataset avec comme élement EmployeeID.
+## Étapes du projet
+## Étape 1 : Extraction et Fusion des Datasets
+- Extraction des différents datasets.
+- Fusion des datasets en utilisant la clé commune ```EmployeeID```.
 
-Etape 2 :
-Suprresion de la categorie discriminatoire.
+## Étape 2 : Suppression des Catégories Discriminatoires
+- Identification et suppression des colonnes contenant des informations sensibles ou discriminatoires.
 
-Etape 3: 
-Correction valeur NaN et valeur abérrantes
+## Étape 3 : Gestion des Valeurs Manquantes et Valeurs Aberrantes
+- Correction des valeurs NaN (manquantes).
+- Détection et correction des valeurs aberrantes pour assurer l'intégrité des données.
 
-Etape 4: en cours
+## Étape 4 : trouver la corrélation
+- Permet de trouver les valeurs qui sont importante pour le modèle
 
-Dev en cours
+## Étape 5: Test de plusieurs modèles
+- Choix de différents modèles pour determiner quels modèles est le plus efficace.
+
+Développement en cours
+Project in development
+
+Dataset venant de: https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study
