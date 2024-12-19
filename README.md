@@ -20,6 +20,12 @@ Ce projet consiste en plusieurs étapes de préparation et de traitement de donn
 ## Étape 5: Test de plusieurs modèles
 - Choix de différents modèles pour determiner quels modèles est le plus efficace.
 
+## Étape 6: Analyse et vérifications des modèles pour choisir le plus performant
+- Choix du modèle pour qu'il soit bien analyser et le choix soit correct
+
+## Étape 7: Prévisions sur dataset aléatoire:
+- Crée faux dataset en le générant aléatoirement, et déterminer les valeurs
+
 Développement en cours
 Project in development
 
